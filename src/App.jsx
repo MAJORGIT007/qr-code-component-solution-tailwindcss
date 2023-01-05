@@ -3,7 +3,7 @@ import qrcode from "../public/image-qr-code.png";
 
 function App() {
   return (
-    <div className="flex justify-center items-center h-screen">
+    <div className="flex justify-center items-center h-screen font-outfit">
       <div className="w-[320px] h-[497px] bg-white p-4 rounded-[20px] shadow-xl">
         <img src={qrcode} alt="qrcode" className="rounded-[10px]" />
         <div className="mt-6 text-center">
