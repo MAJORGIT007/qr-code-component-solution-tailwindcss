@@ -7,7 +7,7 @@ function App() {
       <div className="w-[320px] h-[497px] bg-white p-4 rounded-[20px] shadow-xl">
         <img src={qrcode} alt="qrcode" className="rounded-[10px]" />
         <div className="mt-6 text-center flex flex-col items-center">
-          <h1 className="font-bold text-[22px] leading-7 text-[#1F314F]">
+          <h1 className="font-bold text-[22px] leading-7 text-[#1F314F] m-0">
             Improve your front-end skills by building projects
           </h1>
           <p className="w-[250px] font-normal text-[15px] leading-[19px] tracking-[0.1875px] text-[#7D889E] m-4 mb-0">
