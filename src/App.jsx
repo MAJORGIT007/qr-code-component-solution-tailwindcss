@@ -6,7 +6,7 @@ function App() {
     <div className="flex justify-center items-center h-screen font-outfit">
       <div className="w-[320px] h-[497px] bg-white p-4 rounded-[20px] shadow-xl">
         <img src={qrcode} alt="qrcode" className="rounded-[10px]" />
-        <div className="mt-6 text-center">
+        <div className="mt-6 text-center flex items-center">
           <h1 className="font-bold text-[22px] leading-7 text-[#1F314F]">
             Improve your front-end skills by building projects
           </h1>
